@@ -9,7 +9,7 @@ export default function Body() {
         <Switch>
             <Route path="/" exact component={Home} />
             <Route path="/users" component={Users} />
-            <Route path="/contact" component={Cupboards} />
+            <Route path="/cupboards" component={Cupboards} />
         </Switch>
     );
 }
