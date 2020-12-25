@@ -8,7 +8,7 @@ class CupboardsProvider extends Component {
     };
 
     componentDidMount() {
-        fetch('http://localhost:9096/cupboards')
+        fetch('http://localhost:8080/cupboards')
             .then(result => result.json())
             .then(data => {
                 this.setState({cupboards: data})
