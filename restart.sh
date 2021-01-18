@@ -1,0 +1,1 @@
+docker run --name=rapp  --rm -it -p 9000:80 react-app
