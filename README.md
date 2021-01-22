@@ -10,6 +10,8 @@
 ##### Docker + Nginx + React
 ```https://dev-gang.ru/article/kak-obsluzhivat-prilozhenija-react-s-pomosczu-nginx-i-docker-mf53hirfey/```
 
+```https://patrickjamesoneill.medium.com/404-not-found-with-docker-react-router-and-nginx-21fdce02c5```
+
 ```https://typeofnan.dev/how-to-serve-a-react-app-with-nginx-in-docker/```
 
 ##### React testing
@@ -17,4 +19,5 @@
 
 ##### CORS
 ```https://stackoverflow.com/questions/58403651/react-component-has-been-blocked-by-cors-policy-no-access-control-allow-origin```
+
 ```https://www.baeldung.com/spring-cors```
