@@ -21,3 +21,11 @@
 ```https://stackoverflow.com/questions/58403651/react-component-has-been-blocked-by-cors-policy-no-access-control-allow-origin```
 
 ```https://www.baeldung.com/spring-cors```
+
+##### NGINX
+```http://nginx.org/ru/docs/beginners_guide.html```
+
+```http://nginx.org/ru/docs/http/ngx_http_index_module.html```
+
+##### Let's Encrypt
+```https://medium.com/@pentacent/nginx-and-lets-encrypt-with-docker-in-less-than-5-minutes-b4b8a60d3a71```
